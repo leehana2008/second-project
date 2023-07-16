@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HanaWeb</title>
+</head>
+<body dir="ltr">
+    <div style="width: 100%;">
+        <span style="font-size: 30px; font-family: outfit; font-weight: 600; word-wrap: break-word;">Sana/</span>
+        <span style="font-size: 30px; font-family: outfit; font-weight: 400; word-wrap: break-word;"> </span>
+        <span style="font-size: 30px; font-family: outfit; font-weight: 400; text-decoration: underline; word-wrap: break-word; color: rgb(96, 25, 161);">front end Developer</span>
+<div style="position: absolute; right: 480px; top: 20px; font-size: 20px; font-family: outfit; font-weight: 400; word-wrap: break-word;"><a href="#">ABOUT ME</a></div>
+<div style="position: absolute; right: 330px; top: 20px; font-size: 20px; font-family: outfit; font-weight: 400; word-wrap: break-word;"><a href="#">RESUME</a></div>
+<div style="position: absolute; right: 170px; top: 20px; font-size: 20px; font-family: outfit; font-weight: 400; word-wrap: break-word;"><a href="#">PROJECT</a></div>
+<div style="position: absolute; right: 30px; top: 20px; font-size: 20px; font-family: outfit; font-weight: 400; word-wrap: break-word;"><a href="#">CONTACT</a></div>
+<div style="position: absolute; left: 30px; top: 100px; width: 350px; height: 500px; opacity: 0.14;background: #131395; box-shadow: 0px 4px 0px black; border-radius: 45px;"></div>
+<div style="position: absolute; left: 30px; top: 545px; width: 350px; height: 55px; background: white;border-bottom-left-radius: 45px; border-bottom-right-radius: 45px;"></div>
+<p style="position: absolute; left: 70px; top: 548px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">FOLLOW ON</p>
+<p style="position: absolute; left: 100px; top: 340px; font-size: 30px; font-family: outfit; width: 200px; height: 200px; text-align: center; color: rgb(89, 29, 145);">Sana</p> 
+<div style="position: absolute; left: 500px; top: 150px;font-size:40px; width: 385px; height: 152px; color: rgb(112, 47, 172);">HELLO<br>EVERYONE</div>
+<div style="position: absolute;left: 500px; top: 440px; font-size: 30px;">Hi, I'm sana mokhatri, I'm front end developer,</br> I'm from Iran and I want to migration to South korea,</br>I want to work on Artificial intelligent.</div>
+<div style="position: absolute; left: 500px; top: 275px; font-size: 20px;">Web designer</div>
+<div style="position: absolute; left: 70px; top: 460px; font-size: 30px; color: rgb(89, 29, 145) ; font-family: outfit;">PROJECT  MANAGER</div>
+<hr style="position:absolute;width: 150px; left: 130px; top: 420px;">
+<div>
+    <button style="position: absolute; left: 500px; top: 340px; background-color:rgb(82, 12, 148); color: white; border-radius: 20px; padding: 10px 30px; border: 1px black solid;">REZUME</button>
+    <button style="position: absolute; left: 650px; top: 340px; background-color: white; color: black; border-radius: 20px; padding: 10px 30px; border: 1px black solid;">PROJECT</button>
+</div>
+<img style="position: absolute; left: 95px; top: 140px; width: 200px; height: 200px; border-radius: 50%;" src="./assets/images/3d-illustration-female-graphic-designer-character_-crc8c86b7a1-_size40.91mb.jpg">
+    </div>
+</body>
+</html>
